@@ -3,8 +3,13 @@ import React, { Component } from 'react';
 class Layout extends Component {
     render() {
         return (
-            <div>
-                hey
+            <div className="layoutCont">
+                <div className="logo">
+                    
+                </div>
+                <div className="menu">
+                    
+                </div>
             </div>
         );
     }

@@ -1,0 +1,19 @@
+.layoutCont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding: 5px 0px 5px 0px;
+  background-color: #0F1756; }
+
+.logo {
+  width: 200px;
+  height: 100px;
+  margin-left: 20px;
+  background-color: chartreuse; }
+
+.menu {
+  width: 300px;
+  height: 100px;
+  margin-right: 20px;
+  background-color: whitesmoke; }
