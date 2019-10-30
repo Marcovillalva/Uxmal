@@ -1,5 +1,6 @@
 import React from 'react';
-import Home from './components/layout/Home';
+import Layout from './components/layout/Layout';
+
 
 
 function App() {
@@ -10,4 +11,7 @@ function App() {
   );
 }
 
+
+
 export default App;
+
